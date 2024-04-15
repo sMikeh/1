@@ -8,7 +8,7 @@ export default function FirstPost() {
     
     <Layout>
      <Head>
-        <title>Love professor Youngjoon</title>
+        <title>Love professor Youngjoon!!!!!</title>
        
       </Head>
       <h1>Hi professor my name is kyuhwan you can call me Mike or Micheal, I'll do my best to listen to the lecture!!!
